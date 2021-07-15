@@ -1,0 +1,31 @@
+.nav-menu {
+    background-color: white;
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index:100;
+    display: flex;
+    padding: 1rem;
+
+    a {
+        text-decoration: none;
+        &:focus, &:hover, &:visited {
+            color: black;
+        }
+    }
+
+    .logo {
+        font-size: 1.5rem;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        margin-left: auto;
+
+        li {
+            display: inline-block;
+            margin: 0 1rem;
+        }
+    }
+}
