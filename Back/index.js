@@ -10,8 +10,8 @@ app.use(cors())
 app.use(express.json())
 
 const razorpay = new Razorpay({
-    key_id: 'rzp_test_IoXzfJhGQHcAsn',
-    key_secret: 'YRL2jHQx94hkVeAWd9aunv2J',
+    key_id: '',
+    key_secret: '',
 })
 
 app.get('/logo.png', (req,res) => {
