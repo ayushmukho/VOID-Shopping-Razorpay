@@ -1,6 +1,6 @@
 # VOID-Shopping-Razorpay
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://ayushmukho-void.netlify.app/).
 
 ### For backend the site is hosted at heroku and for front it is hosted in netlify site :- https://elegant-poincare-863cf6.netlify.app/
 
